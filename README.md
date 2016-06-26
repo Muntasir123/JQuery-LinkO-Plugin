@@ -1,4 +1,4 @@
-# Linkit JQuery Plugin#
+# LinkO JQuery Plugin#
 
 
 **LinkO** is a simple Jquery Plugin which will attach links to specific elements
