@@ -8,7 +8,7 @@
 
 ##Usage
 
-  $('span').linkO({
+        $('span').linkO({
                 
                 href: 'http://test.com',
                 text: 'Click me',
