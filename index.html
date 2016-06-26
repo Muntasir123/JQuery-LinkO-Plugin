@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> LinkO</title>
+        <script src = "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src = "jquery.linkO.js"></script>
+        <script>
+        $(document).ready(function(){
+            
+            $('span').linkO({
+                
+                href: 'http://test.com',
+                text: 'Click me',
+                target: '_blank'
+                
+                
+            });
+            
+        });   
+        
+        
+        </script>
+    </head>
+    <body>
+        <h1> LinkO demo</h1>
+        <p> This is the jQuery LinkO demo. Let's make <span>this text</span> into a link</p>
+    </body>
+    
+</html>

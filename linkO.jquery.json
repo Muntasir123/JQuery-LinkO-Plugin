@@ -1,0 +1,33 @@
+{
+    "name": "linkO",
+    "title": "LinkO Jquery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Muntasir Alam",
+        "url": "https://github.com/Muntasir123/JQuery-LinkO-Plugin"
+    },
+    "maintainers": [
+        {
+            "name": "Muntasir Alam",
+            "email": "alam11o@uwindsor.ca"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Muntasir123/JQuery-LinkO-Plugin/LISCENSE.txt"
+        }
+    ],
+    
+    "homepage": "https://github.com/Muntasir123/JQuery-LinkO-Plugin",
+    "docs": "https://github.com/Muntasir123/JQuery-LinkO-Plugin",
+    "dependencies": {
+        "jquery": ">=1.0"
+    }
+}
